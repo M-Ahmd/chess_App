@@ -9,12 +9,6 @@ A simple two-player chess game built using **Java** and **Android Studio**. The 
 - Move history tracking.
 - End-game dialog asking the player to restart or exit.
 
-## 📱 Screenshots
-
-*(Add screenshots of your app here once available)*
-
----
-
 ## 🔧 Features
 
 - **Two-player support**: Local hot-seat game (both players use the same device).
